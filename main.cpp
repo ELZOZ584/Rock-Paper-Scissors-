@@ -1,4 +1,5 @@
 #include <iostream>
+#include <windows.h>
 #include <cstdlib> // For rand() and srand()
 #include <ctime> 
 #include "project1.h"
@@ -51,6 +52,8 @@ int main()
             if ((computer_choice == 1 && player_choice == 3) || (computer_choice == 2 && player_choice == 1) || (computer_choice == 3 && player_choice == 2)){
                 cout << "Round Winner : [Computer]\n";
                 cout << "------------------------------------------------\n\n\n";
+                 Beep(500, 1500);
+                 cin.get();
                 system("color 4e");
                 c_win++;
             }
