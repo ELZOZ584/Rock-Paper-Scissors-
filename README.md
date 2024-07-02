@@ -22,8 +22,9 @@ This is a simple console-based rock-paper-scissors game implemented in C++. Play
 <hr>
 <br>
 <ul>
-<li>Gameplay Screenshot 1!</li>
-<li>Gameplay Screenshot 2!</li>
+<li>
+  <a href="https://drive.google.com/file/d/1ntqrxtM1yOsrljlJvfaaJ1tpMLYen2MH/view?usp=drive_link">Gameplay Screenshot</a> 
+</li> 
 </ul>
 <br>
 <h1>Requirements</h1>
